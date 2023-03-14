@@ -1,0 +1,1 @@
+Para o command foi simulado o controle de uma tv, podendo deixá-la ON ou OFF
