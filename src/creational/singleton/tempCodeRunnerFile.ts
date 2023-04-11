@@ -1,1 +1,0 @@
-private static instance: MyDatabaseClassic | null = null;
